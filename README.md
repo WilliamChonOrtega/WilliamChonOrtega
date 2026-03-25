@@ -1,4 +1,4 @@
-## AI Native Portfolio — Will O
+## AI Native Portfolio — William Chon Ortega
 
 Built and deployed multiple interactive web apps using HTML, JavaScript, and AI-assisted workflows. Focused on user experience, real-world problem solving, and rapid iteration.
 
